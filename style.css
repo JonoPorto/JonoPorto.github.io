@@ -103,7 +103,7 @@ body {
 }
 
 input[type="text"]::placeholder {
-	color: red;
+	color: grey;
 	font-size: 2.4rem;
 	
 }
