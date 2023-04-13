@@ -1,11 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 
-input::placeholder {
-    opacity: 0.5;
-    color: red;
-}
-
-
 * {
 	margin: 0;
 	padding: 0;
@@ -62,6 +56,11 @@ body {
 	height: auto;
 	border: 0.1rem solid var(--black);
 	border-right: none;
+}
+
+.search-local::placeholder {
+    opacity: 0.5;
+    color: red;
 }
 
 /* ICON */
