@@ -59,7 +59,7 @@ function searchCity(city) {
           document.getElementById("city").placeholder = `Which city: ${city}`;
         });
       } else {
-        throw new Error("City not found");
+        throw new Error("Miestas nerastas");
       }
     })
     .catch(error => {
