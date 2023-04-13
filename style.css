@@ -58,10 +58,7 @@ body {
 	border-right: none;
 }
 
-.search-local::placeholder {
-    opacity: 0.5;
-    color: red;
-}
+
 
 /* ICON */
 .icon {
@@ -106,8 +103,9 @@ body {
 }
 
 input[type="text"]::placeholder {
-	color: var(--black);
+	color: red;
 	font-size: 2.4rem;
+	
 }
 
 /* BUTTON */
