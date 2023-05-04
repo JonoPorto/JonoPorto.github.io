@@ -1,3 +1,1 @@
-#Alergijos Rizika Pagal Miestą
-
-[Spausti čia](https://jonoporto.github.io/)
+# [Alergijos Rizika Pagal Miestą](https://jonoporto.github.io/) #
